@@ -1,0 +1,5 @@
+If you are conifiguring git for the first time
+ 
+1. git config --list
+2. git config --global user.name "John Doe"
+3. git config --global user.email johndoe@example.com
